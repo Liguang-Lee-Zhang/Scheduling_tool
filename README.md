@@ -4,7 +4,9 @@
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-As employees often have busy schedules, it becomes difficult to stay on top of the various work tasks. A daily planner which allows the user to enter and store scheduled to-dos as well as visually displaying 
+As employees often have busy schedules, it becomes difficult to stay on top of the various work tasks. A daily planner which allows the user to enter and store scheduled to-dos as well as visually displaying the current date would enable employees to keep track of their work tasks, allowing them to be more efficient at work. 
+
+This webapplication uses web API and third-party APIs including Jquery, Bootstrap. 
 
 ## Installation
 
