@@ -12,12 +12,12 @@ Use any web browser to access the webpage. If you wish to see the source code, p
 
 ## Usage
 
-To access the webpage, go to https://liguang-lee-zhang.github.io/Module-1-Challenge/. 
+To access the webpage, go to https://liguang-lee-zhang.github.io/Scheduling_tool/. 
 
 Image showing deployed webpage:
 
 
-![alt Deployed webpage](Develop/images/screenshot.png)
+![alt Deployed webpage](Assets/images/screenshot.png)
 
 
 
